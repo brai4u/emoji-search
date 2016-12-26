@@ -22,7 +22,7 @@ header{
 	font-size: 69px;
 }
 
-.copy{
+.copy, .copied{
 	font-style: italic;
 	margin-bottom: 17px;
 }
