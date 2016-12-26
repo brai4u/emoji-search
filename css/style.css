@@ -3,6 +3,7 @@
 }
 body{
 	background-color: black;
+	 margin-bottom: 60px;
 }
 
 .class{
@@ -23,10 +24,12 @@ header{
 
 .copy{
 	font-style: italic;
+	margin-bottom: 17px;
 }
 
 span{
 	cursor: pointer;
+	margin-left: 8px;
 }
 
 .footer {
