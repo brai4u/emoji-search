@@ -1,4 +1,2 @@
 # Emoji Search
-Search emojis with deep learning api
-
-https://emoji.now.sh/
+Search emojis with deep learning api https://emoji.now.sh/
